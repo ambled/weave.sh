@@ -10,7 +10,7 @@ or signup for news at the [Launch Page](http://launch.weave.sh)
 
 And the [Wiki](http://github.com/ambled/weave.sh/wiki)
 
-We've just launched, more to come soon
+We've just launched, more to come this weekend, sample buildable test code checked in.
 
 Garth
 10/11/12
